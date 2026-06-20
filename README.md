@@ -86,11 +86,12 @@ Yellow
 
   
 ## 📂 Project Structure
- `Traffic-Light-Controller/ │ 
+ `Traffic-Light-Controller/ 
+ 
  ├── design.sv 
  ├── testbench.sv 
  ├── waveform.png
- └── README.md `  
+ └── README.md 
 ## 📜 Design Features
  
  
